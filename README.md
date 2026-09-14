@@ -1,1 +1,1 @@
-# AIS_Lab_1
+# Artificial-Intelligence-Systems
